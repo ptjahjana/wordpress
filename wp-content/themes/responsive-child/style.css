@@ -1,0 +1,81 @@
+/* 
+Theme Name: Responsive Child Theme
+Theme URI: http://cyberchimps.com/guide/child-theme-example/
+Description: Responsive Child Theme
+Template: responsive
+Version: 1.0.0
+Author: CyberChimps
+Author URI: https://cyberchimps.com/
+License: GNU General Public License
+License URI: license.txt
+
+*/
+
+/* =Start From Here
+-------------------------------------------------------------- */
+/**
+* #.# Header
+*/
+
+#logo {
+	margin-right: 5px;
+}
+
+#header_text {
+	color: black;
+	font-family: "proxima-nova", Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 28px;
+	line-height: 1em;
+	padding-top: 38px;
+	padding-left: 10px;
+	padding-bottom: 10px;
+	text-align: left;
+}
+
+.menu li{
+font-family: "proxima-nova", Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+        text-transform: uppercase;
+}
+
+
+.menu a{
+font-family: "proxima-nova", Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+        text-transform: uppercase;
+}	
+
+.page-template-landing-page-php .top-menu,
+.page-template-landing-page-php .sub-header-menu {
+	display: block;
+}
+.top-menu li a {
+font-family: "proxima-nova", Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+        font-weight: 400;
+        font-style: normal;
+	font-size: 16px;
+}
+.main-nav {
+	display: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*The last 29 days of the month are the hardest."- Nikola Tesla*/
